@@ -11,13 +11,13 @@ global.authFile = `MysticSession`;
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 // Error de m.isBaileys marcado como false fix temporal
-global.isBaileysFail = true;
+global.isBaileysFail = false;
 
 global.defaultLenguaje = 'es';
 
 global.owner = [
   ['5219533624944', '👑 Propietario 👑', true],
-  ['5492916450307'],
+  ['5219531627349'],
   ['5493794297363'],
   ['59169082575']
 ];
